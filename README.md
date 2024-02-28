@@ -1,2 +1,5 @@
 # RepositorioHenry
-homework de la clase 2 del PrepCourse
+
+Bruno Gonzalez
+
+Estos son los primeros cambios en el Homework de la segunda clase
